@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2731930097, "building": "yes", "club": "yes", "name": "Grupo Escoteiro do Ar", "nodes": null, "aeroway": null, "building:levels": null, "amenity": null, "ways": null, "layer": null, "name:en": null, "operator": null, "type": null }, "geometry": { "type": "Point", "coordinates": [ -47.915113, -15.8603 ] } }
+]
+}
